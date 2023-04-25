@@ -10,3 +10,12 @@
 7. AcademMind - https://www.youtube.com/@academind
 8. Codevolution - https://youtu.be/exBgWAIeIeg
 9. CSS Kevin - https://www.youtube.com/@KevinPowell
+
+## jei daryti svetaine sau ar kazkam komerciskai su react tai tada
+
+https://nextjs.org/
+
+## Toliau pasimokyti/pasidaryti
+
+1. Typescript - typescript crash course
+2. Pasidaryti savo projektu
